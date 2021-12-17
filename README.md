@@ -1,6 +1,13 @@
 # Demo_fokker_planck_equation
 Sample script to solve a Fokker Planck equation for inferring a probability density of phase difference in 2 coupled Kuramoto oscillator
 
+# Example of the results
+The code generating the following figures is found in phase_diff_probability.py.
+
+![Test Image 1](figures/density_phase_diff10.png.png) -> O.K.
+
+![Test Image 1](figures/density_phase_diff01.png.png) -> O.K.
+
 # Requirements<br>
 &ensp; Operation has been confirmed only under the following environment. <br>
 &ensp;&ensp; - OS: Windows 10 64bit, Ubuntu 18.04.5 LTS <br>
