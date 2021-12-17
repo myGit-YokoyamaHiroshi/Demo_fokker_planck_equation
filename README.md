@@ -4,9 +4,9 @@ Sample script to solve a Fokker Planck equation for inferring a probability dens
 # Example of the results
 The code generating the following figures is found in phase_diff_probability.py.
 
-![Test Image 1](figures/density_phase_diff10.png.png) -> O.K.
+![Test Image 1](https://github.com/myGit-YokoyamaHiroshi/Demo_fokker_planck_equation/figures/density_phase_diff10.png.png) -> O.K.
 
-![Test Image 1](figures/density_phase_diff01.png.png) -> O.K.
+![Test Image 1](./figures/density_phase_diff01.png.png) -> O.K.
 
 # Requirements<br>
 &ensp; Operation has been confirmed only under the following environment. <br>
